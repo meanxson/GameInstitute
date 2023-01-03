@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.20)
+project(gameinstitute)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(gameinstitute main.cpp sizeof/sizeofchecker.cpp Macros/MacrosChecker.cpp Execrcises/Exercies1.cpp)
