@@ -8,7 +8,8 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "F:/Projects/C++/Learn/gameinstitute/Execrcises/Exercies1.cpp" "F:/Projects/C++/Learn/gameinstitute/cmake-build-debug/CMakeFiles/gameinstitute.dir/Execrcises/Exercies1.cpp.obj"
+  "F:/Projects/C++/Learn/gameinstitute/Execrcises/Exercises1.cpp" "F:/Projects/C++/Learn/gameinstitute/cmake-build-debug/CMakeFiles/gameinstitute.dir/Execrcises/Exercises1.cpp.obj"
+  "F:/Projects/C++/Learn/gameinstitute/Execrcises/Exercises2.cpp" "F:/Projects/C++/Learn/gameinstitute/cmake-build-debug/CMakeFiles/gameinstitute.dir/Execrcises/Exercises2.cpp.obj"
   "F:/Projects/C++/Learn/gameinstitute/Macros/MacrosChecker.cpp" "F:/Projects/C++/Learn/gameinstitute/cmake-build-debug/CMakeFiles/gameinstitute.dir/Macros/MacrosChecker.cpp.obj"
   "F:/Projects/C++/Learn/gameinstitute/main.cpp" "F:/Projects/C++/Learn/gameinstitute/cmake-build-debug/CMakeFiles/gameinstitute.dir/main.cpp.obj"
   "F:/Projects/C++/Learn/gameinstitute/sizeof/sizeofchecker.cpp" "F:/Projects/C++/Learn/gameinstitute/cmake-build-debug/CMakeFiles/gameinstitute.dir/sizeof/sizeofchecker.cpp.obj"

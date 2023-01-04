@@ -104,25 +104,39 @@ CMakeFiles/gameinstitute.dir/Macros/MacrosChecker.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/gameinstitute.dir/Macros/MacrosChecker.cpp.s"
 	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S F:\Projects\C++\Learn\gameinstitute\Macros\MacrosChecker.cpp -o CMakeFiles\gameinstitute.dir\Macros\MacrosChecker.cpp.s
 
-CMakeFiles/gameinstitute.dir/Execrcises/Exercies1.cpp.obj: CMakeFiles/gameinstitute.dir/flags.make
-CMakeFiles/gameinstitute.dir/Execrcises/Exercies1.cpp.obj: ../Execrcises/Exercies1.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=F:\Projects\C++\Learn\gameinstitute\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/gameinstitute.dir/Execrcises/Exercies1.cpp.obj"
-	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\gameinstitute.dir\Execrcises\Exercies1.cpp.obj -c F:\Projects\C++\Learn\gameinstitute\Execrcises\Exercies1.cpp
+CMakeFiles/gameinstitute.dir/Execrcises/Exercises1.cpp.obj: CMakeFiles/gameinstitute.dir/flags.make
+CMakeFiles/gameinstitute.dir/Execrcises/Exercises1.cpp.obj: ../Execrcises/Exercises1.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=F:\Projects\C++\Learn\gameinstitute\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/gameinstitute.dir/Execrcises/Exercises1.cpp.obj"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\gameinstitute.dir\Execrcises\Exercises1.cpp.obj -c F:\Projects\C++\Learn\gameinstitute\Execrcises\Exercises1.cpp
 
-CMakeFiles/gameinstitute.dir/Execrcises/Exercies1.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/gameinstitute.dir/Execrcises/Exercies1.cpp.i"
-	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E F:\Projects\C++\Learn\gameinstitute\Execrcises\Exercies1.cpp > CMakeFiles\gameinstitute.dir\Execrcises\Exercies1.cpp.i
+CMakeFiles/gameinstitute.dir/Execrcises/Exercises1.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/gameinstitute.dir/Execrcises/Exercises1.cpp.i"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E F:\Projects\C++\Learn\gameinstitute\Execrcises\Exercises1.cpp > CMakeFiles\gameinstitute.dir\Execrcises\Exercises1.cpp.i
 
-CMakeFiles/gameinstitute.dir/Execrcises/Exercies1.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/gameinstitute.dir/Execrcises/Exercies1.cpp.s"
-	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S F:\Projects\C++\Learn\gameinstitute\Execrcises\Exercies1.cpp -o CMakeFiles\gameinstitute.dir\Execrcises\Exercies1.cpp.s
+CMakeFiles/gameinstitute.dir/Execrcises/Exercises1.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/gameinstitute.dir/Execrcises/Exercises1.cpp.s"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S F:\Projects\C++\Learn\gameinstitute\Execrcises\Exercises1.cpp -o CMakeFiles\gameinstitute.dir\Execrcises\Exercises1.cpp.s
+
+CMakeFiles/gameinstitute.dir/Execrcises/Exercises2.cpp.obj: CMakeFiles/gameinstitute.dir/flags.make
+CMakeFiles/gameinstitute.dir/Execrcises/Exercises2.cpp.obj: ../Execrcises/Exercises2.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=F:\Projects\C++\Learn\gameinstitute\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/gameinstitute.dir/Execrcises/Exercises2.cpp.obj"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\gameinstitute.dir\Execrcises\Exercises2.cpp.obj -c F:\Projects\C++\Learn\gameinstitute\Execrcises\Exercises2.cpp
+
+CMakeFiles/gameinstitute.dir/Execrcises/Exercises2.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/gameinstitute.dir/Execrcises/Exercises2.cpp.i"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E F:\Projects\C++\Learn\gameinstitute\Execrcises\Exercises2.cpp > CMakeFiles\gameinstitute.dir\Execrcises\Exercises2.cpp.i
+
+CMakeFiles/gameinstitute.dir/Execrcises/Exercises2.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/gameinstitute.dir/Execrcises/Exercises2.cpp.s"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S F:\Projects\C++\Learn\gameinstitute\Execrcises\Exercises2.cpp -o CMakeFiles\gameinstitute.dir\Execrcises\Exercises2.cpp.s
 
 # Object files for target gameinstitute
 gameinstitute_OBJECTS = \
 "CMakeFiles/gameinstitute.dir/main.cpp.obj" \
 "CMakeFiles/gameinstitute.dir/sizeof/sizeofchecker.cpp.obj" \
 "CMakeFiles/gameinstitute.dir/Macros/MacrosChecker.cpp.obj" \
-"CMakeFiles/gameinstitute.dir/Execrcises/Exercies1.cpp.obj"
+"CMakeFiles/gameinstitute.dir/Execrcises/Exercises1.cpp.obj" \
+"CMakeFiles/gameinstitute.dir/Execrcises/Exercises2.cpp.obj"
 
 # External object files for target gameinstitute
 gameinstitute_EXTERNAL_OBJECTS =
@@ -130,12 +144,13 @@ gameinstitute_EXTERNAL_OBJECTS =
 gameinstitute.exe: CMakeFiles/gameinstitute.dir/main.cpp.obj
 gameinstitute.exe: CMakeFiles/gameinstitute.dir/sizeof/sizeofchecker.cpp.obj
 gameinstitute.exe: CMakeFiles/gameinstitute.dir/Macros/MacrosChecker.cpp.obj
-gameinstitute.exe: CMakeFiles/gameinstitute.dir/Execrcises/Exercies1.cpp.obj
+gameinstitute.exe: CMakeFiles/gameinstitute.dir/Execrcises/Exercises1.cpp.obj
+gameinstitute.exe: CMakeFiles/gameinstitute.dir/Execrcises/Exercises2.cpp.obj
 gameinstitute.exe: CMakeFiles/gameinstitute.dir/build.make
 gameinstitute.exe: CMakeFiles/gameinstitute.dir/linklibs.rsp
 gameinstitute.exe: CMakeFiles/gameinstitute.dir/objects1.rsp
 gameinstitute.exe: CMakeFiles/gameinstitute.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=F:\Projects\C++\Learn\gameinstitute\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Linking CXX executable gameinstitute.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=F:\Projects\C++\Learn\gameinstitute\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Linking CXX executable gameinstitute.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\gameinstitute.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

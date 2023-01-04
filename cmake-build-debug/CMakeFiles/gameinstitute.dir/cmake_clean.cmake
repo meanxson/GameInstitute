@@ -1,5 +1,6 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/gameinstitute.dir/Execrcises/Exercies1.cpp.obj"
+  "CMakeFiles/gameinstitute.dir/Execrcises/Exercises1.cpp.obj"
+  "CMakeFiles/gameinstitute.dir/Execrcises/Exercises2.cpp.obj"
   "CMakeFiles/gameinstitute.dir/Macros/MacrosChecker.cpp.obj"
   "CMakeFiles/gameinstitute.dir/main.cpp.obj"
   "CMakeFiles/gameinstitute.dir/sizeof/sizeofchecker.cpp.obj"

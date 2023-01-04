@@ -80,7 +80,10 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="F:/Projects/C++/Learn/gameinstitute/Execrcises/Exercies1.cpp">
+		<Unit filename="F:/Projects/C++/Learn/gameinstitute/Execrcises/Exercises1.cpp">
+			<Option target="gameinstitute"/>
+		</Unit>
+		<Unit filename="F:/Projects/C++/Learn/gameinstitute/Execrcises/Exercises2.cpp">
 			<Option target="gameinstitute"/>
 		</Unit>
 		<Unit filename="F:/Projects/C++/Learn/gameinstitute/Macros/MacrosChecker.cpp">
