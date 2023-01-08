@@ -86,6 +86,9 @@
 		<Unit filename="F:/Projects/C++/Learn/gameinstitute/Execrcises/Exercises2.cpp">
 			<Option target="gameinstitute"/>
 		</Unit>
+		<Unit filename="F:/Projects/C++/Learn/gameinstitute/Execrcises/Exercises3.cpp">
+			<Option target="gameinstitute"/>
+		</Unit>
 		<Unit filename="F:/Projects/C++/Learn/gameinstitute/Macros/MacrosChecker.cpp">
 			<Option target="gameinstitute"/>
 		</Unit>

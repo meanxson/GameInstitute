@@ -176,6 +176,30 @@ Execrcises/Exercises2.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\gameinstitute.dir\build.make CMakeFiles/gameinstitute.dir/Execrcises/Exercises2.cpp.s
 .PHONY : Execrcises/Exercises2.cpp.s
 
+Execrcises/Exercises3.obj: Execrcises/Exercises3.cpp.obj
+.PHONY : Execrcises/Exercises3.obj
+
+# target to build an object file
+Execrcises/Exercises3.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\gameinstitute.dir\build.make CMakeFiles/gameinstitute.dir/Execrcises/Exercises3.cpp.obj
+.PHONY : Execrcises/Exercises3.cpp.obj
+
+Execrcises/Exercises3.i: Execrcises/Exercises3.cpp.i
+.PHONY : Execrcises/Exercises3.i
+
+# target to preprocess a source file
+Execrcises/Exercises3.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\gameinstitute.dir\build.make CMakeFiles/gameinstitute.dir/Execrcises/Exercises3.cpp.i
+.PHONY : Execrcises/Exercises3.cpp.i
+
+Execrcises/Exercises3.s: Execrcises/Exercises3.cpp.s
+.PHONY : Execrcises/Exercises3.s
+
+# target to generate assembly for a file
+Execrcises/Exercises3.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\gameinstitute.dir\build.make CMakeFiles/gameinstitute.dir/Execrcises/Exercises3.cpp.s
+.PHONY : Execrcises/Exercises3.cpp.s
+
 Macros/MacrosChecker.obj: Macros/MacrosChecker.cpp.obj
 .PHONY : Macros/MacrosChecker.obj
 
@@ -263,6 +287,9 @@ help:
 	@echo ... Execrcises/Exercises2.obj
 	@echo ... Execrcises/Exercises2.i
 	@echo ... Execrcises/Exercises2.s
+	@echo ... Execrcises/Exercises3.obj
+	@echo ... Execrcises/Exercises3.i
+	@echo ... Execrcises/Exercises3.s
 	@echo ... Macros/MacrosChecker.obj
 	@echo ... Macros/MacrosChecker.i
 	@echo ... Macros/MacrosChecker.s

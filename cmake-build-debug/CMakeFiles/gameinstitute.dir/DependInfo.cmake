@@ -10,6 +10,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 set(CMAKE_DEPENDS_CHECK_CXX
   "F:/Projects/C++/Learn/gameinstitute/Execrcises/Exercises1.cpp" "F:/Projects/C++/Learn/gameinstitute/cmake-build-debug/CMakeFiles/gameinstitute.dir/Execrcises/Exercises1.cpp.obj"
   "F:/Projects/C++/Learn/gameinstitute/Execrcises/Exercises2.cpp" "F:/Projects/C++/Learn/gameinstitute/cmake-build-debug/CMakeFiles/gameinstitute.dir/Execrcises/Exercises2.cpp.obj"
+  "F:/Projects/C++/Learn/gameinstitute/Execrcises/Exercises3.cpp" "F:/Projects/C++/Learn/gameinstitute/cmake-build-debug/CMakeFiles/gameinstitute.dir/Execrcises/Exercises3.cpp.obj"
   "F:/Projects/C++/Learn/gameinstitute/Macros/MacrosChecker.cpp" "F:/Projects/C++/Learn/gameinstitute/cmake-build-debug/CMakeFiles/gameinstitute.dir/Macros/MacrosChecker.cpp.obj"
   "F:/Projects/C++/Learn/gameinstitute/main.cpp" "F:/Projects/C++/Learn/gameinstitute/cmake-build-debug/CMakeFiles/gameinstitute.dir/main.cpp.obj"
   "F:/Projects/C++/Learn/gameinstitute/sizeof/sizeofchecker.cpp" "F:/Projects/C++/Learn/gameinstitute/cmake-build-debug/CMakeFiles/gameinstitute.dir/sizeof/sizeofchecker.cpp.obj"
