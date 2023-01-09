@@ -6,11 +6,9 @@
 
 #IncludeRegexTransform: 
 
-F:/Projects/C++/Learn/gameinstitute/Execrcises/Exercises2.cpp
-iostream
--
-
 F:/Projects/C++/Learn/gameinstitute/main.cpp
 iostream
+-
+cmath
 -
 

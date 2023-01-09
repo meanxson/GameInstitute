@@ -5,6 +5,8 @@ CMakeFiles/gameinstitute.dir/Execrcises/Exercises1.cpp.obj: \
  ../Execrcises/Exercises1.cpp
 CMakeFiles/gameinstitute.dir/Execrcises/Exercises2.cpp.obj: \
  ../Execrcises/Exercises2.cpp
+CMakeFiles/gameinstitute.dir/Execrcises/Exercises3.cpp.obj: \
+ ../Execrcises/Exercises3.cpp
 CMakeFiles/gameinstitute.dir/Macros/MacrosChecker.cpp.obj: \
  ../Macros/MacrosChecker.cpp
 CMakeFiles/gameinstitute.dir/main.cpp.obj: \
